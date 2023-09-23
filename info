@@ -17,10 +17,10 @@
 $
 
 # Command Line History (newest to oldest):
+:wqa
+|2,0,1695467466,,"wqa"
 :qa
 |2,0,1695466914,,"qa"
-:wqa
-|2,0,1695426996,,"wqa"
 :AirlineTheme simple
 |2,0,1695426880,,"AirlineTheme simple"
 :AirlineTheme light
@@ -130,32 +130,62 @@ $
 |3,1,36,0,1,0,1695426981,"AirlineTheme"
 
 # File marks:
-'0  20  0  ~\vimfiles\README.md
-|4,48,20,0,1695466914,"~\\vimfiles\\README.md"
-'1  37  9  ~\vimfiles\vimrc
-|4,49,37,9,1695427091,"~\\vimfiles\\vimrc"
-'2  61  29  ~\vimfiles\vimrc
-|4,50,61,29,1695426996,"~\\vimfiles\\vimrc"
-'3  61  29  ~\vimfiles\vimrc
-|4,51,61,29,1695426996,"~\\vimfiles\\vimrc"
-'4  61  20  ~\vimfiles\vimrc
-|4,52,61,20,1695426845,"~\\vimfiles\\vimrc"
-'5  61  20  ~\vimfiles\vimrc
-|4,53,61,20,1695426845,"~\\vimfiles\\vimrc"
-'6  61  24  ~\vimfiles\vimrc
-|4,54,61,24,1695426830,"~\\vimfiles\\vimrc"
-'7  61  24  ~\vimfiles\vimrc
-|4,55,61,24,1695426830,"~\\vimfiles\\vimrc"
-'8  61  24  ~\vimfiles\vimrc
-|4,56,61,24,1695426830,"~\\vimfiles\\vimrc"
+'0  2  3  ~\vimfiles\.gitignore
+|4,48,2,3,1695467466,"~\\vimfiles\\.gitignore"
+'1  1  6  ~\vimfiles\.gitignore
+|4,49,1,6,1695467248,"~\\vimfiles\\.gitignore"
+'2  1  6  ~\vimfiles\.gitignore
+|4,50,1,6,1695467248,"~\\vimfiles\\.gitignore"
+'3  20  0  ~\vimfiles\README.md
+|4,51,20,0,1695466914,"~\\vimfiles\\README.md"
+'4  37  9  ~\vimfiles\vimrc
+|4,52,37,9,1695427091,"~\\vimfiles\\vimrc"
+'5  61  29  ~\vimfiles\vimrc
+|4,53,61,29,1695426996,"~\\vimfiles\\vimrc"
+'6  61  29  ~\vimfiles\vimrc
+|4,54,61,29,1695426996,"~\\vimfiles\\vimrc"
+'7  61  20  ~\vimfiles\vimrc
+|4,55,61,20,1695426845,"~\\vimfiles\\vimrc"
+'8  61  20  ~\vimfiles\vimrc
+|4,56,61,20,1695426845,"~\\vimfiles\\vimrc"
 '9  61  24  ~\vimfiles\vimrc
 |4,57,61,24,1695426830,"~\\vimfiles\\vimrc"
 
 # Jumplist (newest first):
+-'  2  3  ~\vimfiles\.gitignore
+|4,39,2,3,1695467466,"~\\vimfiles\\.gitignore"
+-'  1  0  ~\vimfiles\.gitignore
+|4,39,1,0,1695467461,"~\\vimfiles\\.gitignore"
+-'  1  6  ~\vimfiles\.gitignore
+|4,39,1,6,1695467248,"~\\vimfiles\\.gitignore"
+-'  20  0  ~\vimfiles\README.md
+|4,39,20,0,1695466914,"~\\vimfiles\\README.md"
+-'  20  0  ~\vimfiles\README.md
+|4,39,20,0,1695466914,"~\\vimfiles\\README.md"
+-'  20  0  ~\vimfiles\README.md
+|4,39,20,0,1695466914,"~\\vimfiles\\README.md"
 -'  20  0  ~\vimfiles\README.md
 |4,39,20,0,1695466914,"~\\vimfiles\\README.md"
 -'  31  0  ~\NERD_tree_1
 |4,39,31,0,1695466803,"~\\NERD_tree_1"
+-'  31  0  ~\NERD_tree_1
+|4,39,31,0,1695466803,"~\\NERD_tree_1"
+-'  31  0  ~\NERD_tree_1
+|4,39,31,0,1695466803,"~\\NERD_tree_1"
+-'  31  0  ~\NERD_tree_1
+|4,39,31,0,1695466803,"~\\NERD_tree_1"
+-'  32  2  ~\NERD_tree_1
+|4,39,32,2,1695466799,"~\\NERD_tree_1"
+-'  1  0  ~\NERD_tree_1
+|4,39,1,0,1695466799,"~\\NERD_tree_1"
+-'  32  2  ~\NERD_tree_1
+|4,39,32,2,1695466799,"~\\NERD_tree_1"
+-'  1  0  ~\NERD_tree_1
+|4,39,1,0,1695466799,"~\\NERD_tree_1"
+-'  32  2  ~\NERD_tree_1
+|4,39,32,2,1695466799,"~\\NERD_tree_1"
+-'  1  0  ~\NERD_tree_1
+|4,39,1,0,1695466799,"~\\NERD_tree_1"
 -'  32  2  ~\NERD_tree_1
 |4,39,32,2,1695466799,"~\\NERD_tree_1"
 -'  1  0  ~\NERD_tree_1
@@ -164,10 +194,46 @@ $
 |4,39,37,9,1695427091,"~\\vimfiles\\vimrc"
 -'  37  9  ~\vimfiles\vimrc
 |4,39,37,9,1695427091,"~\\vimfiles\\vimrc"
+-'  37  9  ~\vimfiles\vimrc
+|4,39,37,9,1695427091,"~\\vimfiles\\vimrc"
+-'  37  9  ~\vimfiles\vimrc
+|4,39,37,9,1695427091,"~\\vimfiles\\vimrc"
+-'  37  9  ~\vimfiles\vimrc
+|4,39,37,9,1695427091,"~\\vimfiles\\vimrc"
+-'  37  9  ~\vimfiles\vimrc
+|4,39,37,9,1695427091,"~\\vimfiles\\vimrc"
+-'  37  9  ~\vimfiles\vimrc
+|4,39,37,9,1695427091,"~\\vimfiles\\vimrc"
+-'  37  9  ~\vimfiles\vimrc
+|4,39,37,9,1695427091,"~\\vimfiles\\vimrc"
 -'  22  0  ~\vimfiles\NERD_tree_1
 |4,39,22,0,1695427003,"~\\vimfiles\\NERD_tree_1"
 -'  22  0  ~\vimfiles\NERD_tree_1
 |4,39,22,0,1695427003,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695427003,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695427003,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695427003,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695427003,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695427003,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695427003,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426997,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426997,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426997,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426997,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426997,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426997,"~\\vimfiles\\NERD_tree_1"
 -'  1  0  ~\vimfiles\NERD_tree_1
 |4,39,1,0,1695426997,"~\\vimfiles\\NERD_tree_1"
 -'  1  0  ~\vimfiles\NERD_tree_1
@@ -180,6 +246,54 @@ $
 |4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
 -'  61  29  ~\vimfiles\vimrc
 |4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  61  29  ~\vimfiles\vimrc
+|4,39,61,29,1695426996,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
+-'  13  0  ~\vimfiles\vimrc
+|4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
 -'  13  0  ~\vimfiles\vimrc
 |4,39,13,0,1695426851,"~\\vimfiles\\vimrc"
 -'  13  0  ~\vimfiles\vimrc
@@ -196,162 +310,58 @@ $
 |4,39,43,0,1695426849,"~\\vimfiles\\NERD_tree_1"
 -'  22  0  ~\vimfiles\NERD_tree_1
 |4,39,22,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  43  0  ~\vimfiles\NERD_tree_1
+|4,39,43,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  43  0  ~\vimfiles\NERD_tree_1
+|4,39,43,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  43  0  ~\vimfiles\NERD_tree_1
+|4,39,43,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  43  0  ~\vimfiles\NERD_tree_1
+|4,39,43,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  43  0  ~\vimfiles\NERD_tree_1
+|4,39,43,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  43  0  ~\vimfiles\NERD_tree_1
+|4,39,43,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  22  0  ~\vimfiles\NERD_tree_1
+|4,39,22,0,1695426849,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426847,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426847,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426847,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426847,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426847,"~\\vimfiles\\NERD_tree_1"
+-'  1  0  ~\vimfiles\NERD_tree_1
+|4,39,1,0,1695426847,"~\\vimfiles\\NERD_tree_1"
 -'  1  0  ~\vimfiles\NERD_tree_1
 |4,39,1,0,1695426847,"~\\vimfiles\\NERD_tree_1"
 -'  1  0  ~\vimfiles\NERD_tree_1
 |4,39,1,0,1695426847,"~\\vimfiles\\NERD_tree_1"
 -'  61  20  ~\vimfiles\vimrc
 |4,39,61,20,1695426845,"~\\vimfiles\\vimrc"
--'  61  20  ~\vimfiles\vimrc
-|4,39,61,20,1695426845,"~\\vimfiles\\vimrc"
--'  53  0  ~\vimfiles\vimrc
-|4,39,53,0,1695426838,"~\\vimfiles\\vimrc"
--'  53  0  ~\vimfiles\vimrc
-|4,39,53,0,1695426838,"~\\vimfiles\\vimrc"
--'  53  0  ~\vimfiles\vimrc
-|4,39,53,0,1695426838,"~\\vimfiles\\vimrc"
--'  53  0  ~\vimfiles\vimrc
-|4,39,53,0,1695426838,"~\\vimfiles\\vimrc"
--'  53  0  ~\vimfiles\vimrc
-|4,39,53,0,1695426838,"~\\vimfiles\\vimrc"
--'  53  0  ~\vimfiles\vimrc
-|4,39,53,0,1695426838,"~\\vimfiles\\vimrc"
--'  64  0  ~\vimfiles\NERD_tree_1
-|4,39,64,0,1695426835,"~\\vimfiles\\NERD_tree_1"
--'  43  0  ~\vimfiles\NERD_tree_1
-|4,39,43,0,1695426835,"~\\vimfiles\\NERD_tree_1"
--'  22  0  ~\vimfiles\NERD_tree_1
-|4,39,22,0,1695426835,"~\\vimfiles\\NERD_tree_1"
--'  64  0  ~\vimfiles\NERD_tree_1
-|4,39,64,0,1695426835,"~\\vimfiles\\NERD_tree_1"
--'  43  0  ~\vimfiles\NERD_tree_1
-|4,39,43,0,1695426835,"~\\vimfiles\\NERD_tree_1"
--'  22  0  ~\vimfiles\NERD_tree_1
-|4,39,22,0,1695426835,"~\\vimfiles\\NERD_tree_1"
--'  1  0  ~\vimfiles\NERD_tree_1
-|4,39,1,0,1695426832,"~\\vimfiles\\NERD_tree_1"
--'  1  0  ~\vimfiles\NERD_tree_1
-|4,39,1,0,1695426832,"~\\vimfiles\\NERD_tree_1"
--'  61  24  ~\vimfiles\vimrc
-|4,39,61,24,1695426830,"~\\vimfiles\\vimrc"
--'  61  24  ~\vimfiles\vimrc
-|4,39,61,24,1695426830,"~\\vimfiles\\vimrc"
--'  28  28  ~\vimfiles\vimrc
-|4,39,28,28,1695426802,"~\\vimfiles\\vimrc"
--'  28  28  ~\vimfiles\vimrc
-|4,39,28,28,1695426802,"~\\vimfiles\\vimrc"
--'  28  28  ~\vimfiles\vimrc
-|4,39,28,28,1695426802,"~\\vimfiles\\vimrc"
--'  28  28  ~\vimfiles\vimrc
-|4,39,28,28,1695426802,"~\\vimfiles\\vimrc"
--'  28  28  ~\vimfiles\vimrc
-|4,39,28,28,1695426802,"~\\vimfiles\\vimrc"
--'  28  28  ~\vimfiles\vimrc
-|4,39,28,28,1695426802,"~\\vimfiles\\vimrc"
--'  28  28  ~\vimfiles\vimrc
-|4,39,28,28,1695426802,"~\\vimfiles\\vimrc"
--'  28  28  ~\vimfiles\vimrc
-|4,39,28,28,1695426802,"~\\vimfiles\\vimrc"
--'  85  4  ~\vimfiles\NERD_tree_1
-|4,39,85,4,1695426799,"~\\vimfiles\\NERD_tree_1"
--'  64  4  ~\vimfiles\NERD_tree_1
-|4,39,64,4,1695426799,"~\\vimfiles\\NERD_tree_1"
--'  43  4  ~\vimfiles\NERD_tree_1
-|4,39,43,4,1695426799,"~\\vimfiles\\NERD_tree_1"
--'  22  4  ~\vimfiles\NERD_tree_1
-|4,39,22,4,1695426799,"~\\vimfiles\\NERD_tree_1"
--'  85  4  ~\vimfiles\NERD_tree_1
-|4,39,85,4,1695426799,"~\\vimfiles\\NERD_tree_1"
--'  64  4  ~\vimfiles\NERD_tree_1
-|4,39,64,4,1695426799,"~\\vimfiles\\NERD_tree_1"
--'  43  4  ~\vimfiles\NERD_tree_1
-|4,39,43,4,1695426799,"~\\vimfiles\\NERD_tree_1"
--'  22  4  ~\vimfiles\NERD_tree_1
-|4,39,22,4,1695426799,"~\\vimfiles\\NERD_tree_1"
--'  1  0  ~\vimfiles\NERD_tree_1
-|4,39,1,0,1695426794,"~\\vimfiles\\NERD_tree_1"
--'  1  0  ~\vimfiles\NERD_tree_1
-|4,39,1,0,1695426794,"~\\vimfiles\\NERD_tree_1"
--'  1  0  ~\vimfiles\NERD_tree_1
-|4,39,1,0,1695426689,"~\\vimfiles\\NERD_tree_1"
--'  1  0  ~\vimfiles\NERD_tree_1
-|4,39,1,0,1695426689,"~\\vimfiles\\NERD_tree_1"
--'  108  2  ~\vimfiles\NERD_tree_1
-|4,39,108,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  87  2  ~\vimfiles\NERD_tree_1
-|4,39,87,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  66  2  ~\vimfiles\NERD_tree_1
-|4,39,66,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  45  2  ~\vimfiles\NERD_tree_1
-|4,39,45,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  87  2  ~\vimfiles\NERD_tree_1
-|4,39,87,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  66  2  ~\vimfiles\NERD_tree_1
-|4,39,66,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  45  2  ~\vimfiles\NERD_tree_1
-|4,39,45,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  66  2  ~\vimfiles\NERD_tree_1
-|4,39,66,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  45  2  ~\vimfiles\NERD_tree_1
-|4,39,45,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  45  2  ~\vimfiles\NERD_tree_1
-|4,39,45,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  24  2  ~\vimfiles\NERD_tree_1
-|4,39,24,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  108  2  ~\vimfiles\NERD_tree_1
-|4,39,108,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  87  2  ~\vimfiles\NERD_tree_1
-|4,39,87,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  66  2  ~\vimfiles\NERD_tree_1
-|4,39,66,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  45  2  ~\vimfiles\NERD_tree_1
-|4,39,45,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  87  2  ~\vimfiles\NERD_tree_1
-|4,39,87,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  66  2  ~\vimfiles\NERD_tree_1
-|4,39,66,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  45  2  ~\vimfiles\NERD_tree_1
-|4,39,45,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  66  2  ~\vimfiles\NERD_tree_1
-|4,39,66,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  45  2  ~\vimfiles\NERD_tree_1
-|4,39,45,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  45  2  ~\vimfiles\NERD_tree_1
-|4,39,45,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  24  2  ~\vimfiles\NERD_tree_1
-|4,39,24,2,1695426687,"~\\vimfiles\\NERD_tree_1"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  47  33  ~\vimfiles\vimrc
-|4,39,47,33,1695426591,"~\\vimfiles\\vimrc"
--'  55  0  ~\vimfiles\vimrc
-|4,39,55,0,1695426546,"~\\vimfiles\\vimrc"
--'  55  0  ~\vimfiles\vimrc
-|4,39,55,0,1695426546,"~\\vimfiles\\vimrc"
--'  55  0  ~\vimfiles\vimrc
-|4,39,55,0,1695426546,"~\\vimfiles\\vimrc"
 
 # History of marks within files (newest to oldest):
+
+> ~\vimfiles\.gitignore
+	*	1695467465	0
+	"	2	3
+	^	2	4
+	.	2	3
+	+	1	7
+	+	2	3
 
 > ~\vimfiles\README.md
 	*	1695466912	0
